@@ -1,12 +1,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=📚+Gemini+AI+Learner;Learn+Google+GenAI+Step+by+Step;Text+%7C+Image+%7C+Video+Generation;From+Zero+to+AI+Hero+🚀" alt="Typing SVG" />
+<!-- Capsule Render Banner (very reliable) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:34A853&height=200&section=header&text=Gemini%20AI%20Learner&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learn%20Google%20Gemini%20AI%20Step%20by%20Step&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
-<!-- Repo Name -->
-<h1 align="center">🧠 gemini-ai-learner</h1>
+<!-- Typing SVG — no emojis, clean URL -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=700&lines=Learn+Google+GenAI+Step+by+Step;Text+Generation+%7C+Image+%7C+Video;Build+Real+AI+Projects+with+Python;From+Zero+to+AI+Hero" alt="Typing SVG" />
+
+<br/>
 
 <!-- Repo Description -->
 <p align="center">
@@ -321,7 +324,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Built+with+❤️+using+Google+Gemini+AI;Happy+Exploring!+🚀" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Built+with+love+using+Google+Gemini+AI;Happy+Learning!" alt="Footer" />
 
 <br/>
 
